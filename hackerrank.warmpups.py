@@ -1,0 +1,1 @@
+# Hackerrank entrypoint to warm up Python
