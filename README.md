@@ -8,11 +8,9 @@
 
 > Hello, this is my repo for hosting my hackerrank solutions in case they can be helpful to you or anyone looking for them! The code is in Python!
 
-## Install
+## Usage
 
-```sh
-npm install
-```
+Just read the code and if it can help you, use it
 
 ## Author
 
@@ -26,6 +24,3 @@ npm install
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
